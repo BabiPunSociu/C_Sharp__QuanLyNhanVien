@@ -1,0 +1,8 @@
+Bài 6. Xây dựng lớp NhanVien
+Các thành phần dữ liệu
+Họ tên, Năm sinh, Địa chỉ, Lương cơ bản, Hệ số, Phụ cấp, Tổng tiền
+Các phương thức
+Hàm tạo không tham số
+Nhập nhân viên
+Tính lương: Tổng tiền = Lương cơ bản x Hệ số + Phụ cấp
+In nhân viên ra màn hình

@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\LapTrinhTrucQuan\BaiTapOOP_23-08-22\BaiTap6\BaiTap6\bin\Debug\net6.0\BaiTap6.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\BaiTapOOP_23-08-22\BaiTap6\BaiTap6\bin\Debug\net6.0\BaiTap6.deps.json
+C:\Users\ADMIN\source\LapTrinhTrucQuan\BaiTapOOP_23-08-22\BaiTap6\BaiTap6\bin\Debug\net6.0\BaiTap6.runtimeconfig.json
+C:\Users\ADMIN\source\LapTrinhTrucQuan\BaiTapOOP_23-08-22\BaiTap6\BaiTap6\bin\Debug\net6.0\BaiTap6.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\BaiTapOOP_23-08-22\BaiTap6\BaiTap6\bin\Debug\net6.0\BaiTap6.pdb
+C:\Users\ADMIN\source\LapTrinhTrucQuan\BaiTapOOP_23-08-22\BaiTap6\BaiTap6\obj\Debug\net6.0\BaiTap6.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\BaiTapOOP_23-08-22\BaiTap6\BaiTap6\obj\Debug\net6.0\BaiTap6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\LapTrinhTrucQuan\BaiTapOOP_23-08-22\BaiTap6\BaiTap6\obj\Debug\net6.0\BaiTap6.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\BaiTapOOP_23-08-22\BaiTap6\BaiTap6\obj\Debug\net6.0\BaiTap6.AssemblyInfo.cs
+C:\Users\ADMIN\source\LapTrinhTrucQuan\BaiTapOOP_23-08-22\BaiTap6\BaiTap6\obj\Debug\net6.0\BaiTap6.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\BaiTapOOP_23-08-22\BaiTap6\BaiTap6\obj\Debug\net6.0\BaiTap6.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\BaiTapOOP_23-08-22\BaiTap6\BaiTap6\obj\Debug\net6.0\refint\BaiTap6.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\BaiTapOOP_23-08-22\BaiTap6\BaiTap6\obj\Debug\net6.0\BaiTap6.pdb
+C:\Users\ADMIN\source\LapTrinhTrucQuan\BaiTapOOP_23-08-22\BaiTap6\BaiTap6\obj\Debug\net6.0\BaiTap6.genruntimeconfig.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\BaiTapOOP_23-08-22\BaiTap6\BaiTap6\obj\Debug\net6.0\ref\BaiTap6.dll
